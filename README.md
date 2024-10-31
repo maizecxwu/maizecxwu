@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I am Chengxiu Wu from HuaZhong Agriculture University
+I am very interested in R language, machine learning, and artificial intelligence, and I welcome everyone to discuss and exchange ideas.
 <!--
 **maizecxwu/maizecxwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
